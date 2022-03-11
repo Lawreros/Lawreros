@@ -28,8 +28,8 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lawreros&show_icons=true&locale=en&layout=compact" alt="lawreros" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lawreros&show_icons=true&locale=en&layout=compact" alt="lawreros" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawreros&show_icons=true&locale=en" alt="lawreros" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawreros&show_icons=true&locale=en" alt="lawreros" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawreros&" alt="lawreros" /></p>
+<!-- <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lawreros&" alt="lawreros" /></p> -->
