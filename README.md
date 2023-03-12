@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ross</h1>
-<h3 align="center">Sr. Programmer Analysist at Johns Hopkins</h3>
+<h3 align="center">Jr. Machine Learning Engineer at DeepHealth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawreros&label=Profile%20views&color=0e75b6&style=flat" alt="lawreros" /> </p>
 
